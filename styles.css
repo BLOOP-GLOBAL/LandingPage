@@ -30,8 +30,8 @@ body{
 
 @media screen and (max-width: 480px) {
     .img{
-       top: 30%;
-       left: 23%;
+       /* top: 30%;
+       left: 23%; */
        width: 210px;
        height: 210px;
    }
